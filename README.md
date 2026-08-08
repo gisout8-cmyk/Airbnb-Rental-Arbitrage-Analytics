@@ -1,7 +1,7 @@
 # Airbnb Rental Arbitrage Analytics — New York City
 
 **Academic Analytics Project | Purdue University**  
-*Portfolio version enhanced after course completion to improve categorical-variable treatment and model interpretation.*
+*Portfolio version enhanced following instructor feedback to improve categorical-variable treatment and model interpretation.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
